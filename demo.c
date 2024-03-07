@@ -4,3 +4,4 @@ c=a*b
 a=&b
 b=&c
 d=&c
+a*b
