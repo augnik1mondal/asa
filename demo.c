@@ -6,5 +6,6 @@ a=&b
 b=&c
 d=&c
 a*b
+b*c
 printf("hello world")
   }
