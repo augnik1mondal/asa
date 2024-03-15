@@ -1,13 +1,10 @@
+#include<stdio.h>
 {
-a=34
-b=12
-c=a*b
-a=&b
-b=&c
-d=&c
-a*b
-b*c
-c*d
-printf("hello world")
-  }
+int min()
+int a=5;
+int *ptr; 
+ptr=&a;
+*ptr=*ptr*5;
+printf("%d",a)
+return 0;
 }
