@@ -8,5 +8,7 @@ ptr=&a;
 printf("%d",a);
 return 0;
 }
+{
 a=12
 b=12
+  }
